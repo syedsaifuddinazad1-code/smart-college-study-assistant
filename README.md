@@ -1,1 +1,0 @@
-# smart-college-study-assistant
